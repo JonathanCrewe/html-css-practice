@@ -1,0 +1,29 @@
+*{
+    background-color: cadetblue;
+}
+
+img {
+    width: 700px;
+    height: 500px;
+    border: 0.5rem solid rgb(14, 83, 126);
+    border-radius: 100%;
+}
+
+h1, h2, h3 { 
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+a {
+    font-size: 0.75rem;
+}
+
+li {
+    color:brown
+}
+
+article {
+    margin-left: 5rem;
+    padding: 10px;
+    padding-bottom: 50px;
+    text-align: left;
+}
